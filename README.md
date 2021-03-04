@@ -4,7 +4,7 @@
 **DanielRomero1040/DanielRomero1040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Junior Frontend Web Developer, 
+I'm a Junior Frontend Web Developer, 
 
 ## Find me at:
 [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-romero-283ba96a/)
