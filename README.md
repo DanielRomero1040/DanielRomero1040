@@ -11,7 +11,7 @@ I'm a Junior Frontend Web Developer,
 Learning is my passion, and knowing how it is possible to do magic with the code and create an infinity of possibilities is too exciting to me.
 
 ### >_ Find me at:
-[![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-romero-283ba96a/)
+[![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-romero-garnica/)
 
 ### >_ Skills:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
