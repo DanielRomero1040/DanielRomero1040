@@ -15,13 +15,18 @@ Learning is my passion, and knowing how it is possible to do magic with the code
 
 ### >_ Skills:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
-</br>
 [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
-</br>
 [![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
 </br>
 [![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
+[![MaterialUI](https://img.shields.io/badge/Material.UI-1572B6?style=for-the-badge&logo=materialui&logoColor=white&labelColor=101010)](#)
+[![Sass Follow](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
 </br>
-[![Sass Follow](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
+[![ReactJs](https://img.shields.io/badge/React.Js-1572B6?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-1572B6?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)](#)
+[![Node.js](https://img.shields.io/badge/node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](#)
+</br>
+[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
+</br>
 
 ... and many more to come! ...
