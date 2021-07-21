@@ -6,7 +6,7 @@
 
 ### >_  About me:
 
-I'm a Junior Frontend Web Developer, 
+I'm a Junior Fullstack Web Developer, 
 
 Learning is my passion, and knowing how it is possible to do magic with the code and create an infinity of possibilities is too exciting to me.
 
