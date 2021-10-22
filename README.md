@@ -31,5 +31,7 @@ I love the pizza 🍕...
 [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
 [![GSAP](https://img.shields.io/badge/GSAP-68a063?style=for-the-badge&logo=gsap&logoColor=white&labelColor=101010)](#)
 </br>
+[![Java](https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
+</br>
 
 ... and many more to come! ...
