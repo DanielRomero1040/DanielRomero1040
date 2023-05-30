@@ -6,11 +6,7 @@
 
 ### >_  About me:
 
-I'm a Junior Fullstack Web Developer, 
-
-Learning is my passion, and knowing how it is possible to do magic with the code and create an infinity of possibilities is too exciting to me.
-
-I love the pizza 🍕...
+I'm a Full Stack developer with a primary focus on backend development in Go, Java, and JavaScript. I have a basic understanding of AngularJS, ReactJS, Spring Boot, and Echo. My passion for programming drives me to stay updated and continuously learn. In addition to my technical skills, I am characterized by my ability for effective communication, strong human relationships, and skills to manage stress and time. As a self-learner, I always seek opportunities to expand my knowledge and learn from others too. My career is oriented towards full stack development with a special inclination towards the backend. Outside of work, I enjoy moments of introspection accompanied by a good cup of coffee ☕, mate 🧉, as well as climbing 🧗🏼 and cycling 🚴🏼‍♂️ and of course I love pizza 🍕.
 
 ### >_ Find me at:
 [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-romero-garnica/)
