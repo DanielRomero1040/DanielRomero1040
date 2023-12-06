@@ -12,6 +12,9 @@ I'm a Full Stack developer with a primary focus on backend development in Go, Ja
 [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-romero-garnica/)
 
 ### >_ Skills:
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="50">
+</br>
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
 [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
@@ -27,7 +30,6 @@ I'm a Full Stack developer with a primary focus on backend development in Go, Ja
 [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
 [![GSAP](https://img.shields.io/badge/GSAP-68a063?style=for-the-badge&logo=gsap&logoColor=white&labelColor=101010)](#)
 </br>
-[![Java](https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
-</br>
+
 
 ... and many more to come! ...
